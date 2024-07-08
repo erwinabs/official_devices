@@ -1,4 +1,13 @@
 ====================
+   DEVICES SIDE
+====================
+- overlay: Update to LA.QSSI.14.0.r1-15100-qssi.0
+- perf: Remove PASR and deps
+- perf: Update to LA.VENDOR.14.3.0.r1
+- system: Update to LA.QSSI.14.0.r1-15100-qssi.0
+- fixup!: disable Apps QCOM 
+
+====================
      2024-07-06    
 ====================
 
